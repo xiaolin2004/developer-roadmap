@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Buffer Examples](https://pkg.go.dev/bytes#example-Buffer)
 - [@article@Buffer](https://www.educba.com/golang-buffer/)
-- [@video@Buffers in Golang](https://www.youtube.com/watch?v=NoDRq6Twkts)
+- [@video@How To Use A Bytes Buffer In Golang And Make It Even Better?](https://youtu.be/ENxfg9rS5dc?si=CvKXQ20ktEmAt9lh)
